@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/underwriting-review/static/js/main.a566f497.js",
+    "static/js/453.fcf0adcc.chunk.js": "/underwriting-review/static/js/453.fcf0adcc.chunk.js",
+    "index.html": "/underwriting-review/index.html",
+    "main.a566f497.js.map": "/underwriting-review/static/js/main.a566f497.js.map",
+    "453.fcf0adcc.chunk.js.map": "/underwriting-review/static/js/453.fcf0adcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a566f497.js"
+  ]
+}
